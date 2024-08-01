@@ -1,4 +1,5 @@
 Arcane Repo Reaper
+
 You belong to an enigmatic guild of magical collectors known as the Arcane Repo Reapers. This background represents your unique skills and experiences as an individual working within this secretive organization. As an Arcane Repo Reaper, you specialize in tracking down and retrieving magical items that have been unlawfully acquired or misused. Your relentless pursuit of these items has made a valuable asset to both law enforcement agencies and wealthy patrons seeking to recover or protect invaluable magical artifacts. Prepare for daring missions and adventure as you use your arcane knowledge and resourcefulness to maintain the delicate balance between magic and the world.
 
 Skill Proficiencies: Investigation, Arcana
