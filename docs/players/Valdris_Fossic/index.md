@@ -33,7 +33,7 @@ ___
 ***Deathless Nature.*** You don't need to breathe.<br>
 ***Spider Climb.*** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 ___
-### Actions
+## Actions
 ***Vampiric Bite.*** _Natural Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage. While under half HP adv on atk.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;If tgt not Construct or Undead empower as one of the following: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Regain hp = damage<br>
@@ -48,6 +48,6 @@ ___
 ***Shortsword Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d6 + 7) slashing damage.<br>
 ***Whip Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 9 (1d4 + 7) slashing damage.<br>
 ___
-### Reactions
+## Reactions
 ***Blood Curse of Exposure.*** When a creature you can see within 30 feet is hit with an attack or spell, you can use your reaction to temporarily weaken their resilience against it. Until the end of the turn, the target loses their resistance to the damage types of the triggering attack or spell.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, having resistance to them until the end of the turn.
