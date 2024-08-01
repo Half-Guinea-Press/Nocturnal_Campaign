@@ -11,9 +11,8 @@ hide:
 -   
     <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
 
--   Medium Humanoid (Dhampir), Lawful Neutral
+-   
   
-    |  |  |  |
     |:---:|:---:|:---:|
     |STR|20|+5|
     |DEX|16|+3|
@@ -22,19 +21,19 @@ hide:
     |WIS|16|+3|
     |CHR|14|+2|
 
+    Medium Humanoid (Dhampir), Lawful Neutral
     Armor Class 18 (scale mail, shield)<br>
     Hit Points 14 (1d10 + 4)<br>
-    Speed 35 ft., climb 35 ft.<br>
+    Speed 35 ft., climb 35 ft.
     
 -   Proficiencies
 
     Saving Throws Dex +5, Int +5<br>
-    Skills Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5<br>
+    Skills Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5, Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
     Senses darkvision 60 ft., passive Perception 15<br>
     Languages Common<br>
     Armor Proficiencies. Light Armor, Medium Armor, and Shields<br>
     Weapon Proficiencies. Simple and Martial Weapons<br>
-    Tool Proficiencies. Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
 
 -   Racial Features
 
