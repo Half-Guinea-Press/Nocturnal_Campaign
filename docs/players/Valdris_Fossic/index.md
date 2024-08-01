@@ -20,9 +20,11 @@ ___
 **Languages** :: Common<br>
 **Challenge** :: 1 (200 XP)<br>
 ___
+## Proficiencies
 ***Armor Proficiencies.*** Light Armor, Medium Armor, and Shields<br>
 ***Weapon Proficiencies.*** Simple and Martial Weapons<br>
 ***Tool Proficiencies.*** Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
+## Abilities
 ***Hunter's Bane.*** Advantage on Wisdom(Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.<br>
 ***Hemocraft.*** DC = 13(8 + Prof Bonus + Int)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Hemocraft Die: 1d4<br>
