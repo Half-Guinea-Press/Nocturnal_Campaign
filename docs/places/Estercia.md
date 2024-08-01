@@ -1,0 +1,1 @@
+<a href="https://half-guinea-press.github.io/Nightmare_Campaign/players/Estercia/"><img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Estercia_map.jpg" alt="Estercia" style="width:20%"></a>
