@@ -1,8 +1,7 @@
-# Valdris Fossic
-
 <div class="grid cards" markdown>
 
--   <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic" style="width:50%">
+-   # Valdris Fossic
+    <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
 
 -   Medium Humanoid (Dhampir), Lawful Neutral
     
