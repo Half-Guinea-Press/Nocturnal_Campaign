@@ -8,6 +8,7 @@ theme:
 #    - navigation.indexes
     - navigation.tracking
     - navigation.prune
+    - content.tooltips
     font:
        text: Playfair Display
        code: Red Hat Mono
