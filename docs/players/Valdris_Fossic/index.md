@@ -16,7 +16,7 @@ hide:
     Medium Humanoid (Dhampir), Lawful Neutral<br>
     STR 20(+5) DEX 16(+3) CON 18(+4)<br>
     INT 16(+3) WIS 16(+3) CHR 14(+2)<br>
-    Saving Throws Dex +5, Int +5<br>
+    Saving Throws Dex +5, Int +5:material-information-outline:{ title="Important information" }<br>
     Armor Class 18 (scale mail, shield)<br>
     Hit Points 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.<br>
@@ -37,8 +37,7 @@ hide:
 -   Class Features
 
     Hunter's Bane. Advantage on Wisdom(Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.<br>
-    Hemocraft. DC = 13(8 + Prof Bonus + Int)<br>
-    Hemocraft Die: 1d4<br>
+    Hemocraft. DC = 13(8 + Prof Bonus + Int) Hemocraft Die: 1d4<br>
     Blood Maledict. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse. You can use this feature once. You regain all expended uses when you finish a short or long rest.<br>
     Fighting Style: Dueling. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.<br>
     
@@ -53,17 +52,17 @@ hide:
 
 -   Melee Attack Action
   
-    Longsword Attack. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (1d8 + 7) slashing damage.<br>
-    Warhammer Attack. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (1d8 + 7) bludgeoning damage.<br>
-    Dagger/Dart Attack. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d4 + 7) piercing damage.<br>
-    Handaxe Attack. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d6 + 7) slashing damage.<br>
-    Shortsword Attack. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d6 + 7) slashing damage.<br>
-    Whip Attack. _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 9 (1d4 + 7) slashing damage.<br>
+    Longsword _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 11 (1d8 + 7) slashing<br>
+    Warhammer _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 11 (1d8 + 7) bludgeoning<br>
+    Dagger _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 9 (1d4 + 7) piercing<br>
+    Handaxe _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 10 (1d6 + 7) slashing<br>
+    Shortsword _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 10 (1d6 + 7) slashing<br>
+    Whip _Melee Attack:_ +7 to hit, reach 10 ft., _Hit:_ 9 (1d4 + 7) slashing
 
 -   Ranged Attack Action
     
-    Dagger/Dart Attack. _Ranged Weapon Attack:_ +7 to hit, range 20/60 ft., one target. _Hit:_ 7 (1d4 + 5) piercing damage.<br>
-    Handaxe Attack. _Ranged Weapon Attack:_ +7 to hit, range 20/60 ft., one target. _Hit:_ 8 (1d6 + 5) slashing damage.<br>
+    Dagger/Dart _Ranged Attack:_ +7 to hit, range 20/60 ft., _Hit:_ 7 (1d4 + 5) piercing<br>
+    Handaxe _Ranged Attack:_ +7 to hit, range 20/60 ft., _Hit:_ 8 (1d6 + 5) slashing<br>
     
 -   Reactions
 
