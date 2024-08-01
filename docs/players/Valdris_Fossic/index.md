@@ -3,21 +3,29 @@
 <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic" style="width:50%">
 
 *Medium Humanoid (Dhampir), Lawful Neutral*
+
 ___
+
 **Armor Class** :: 18 (scale mail, shield)
 **Hit Points** :: 14 (1d10 + 4)
 **Speed** :: 35 ft., climb 35 ft.
+
 ___
+
 |STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|18 (+4)|16 (+3)|16 (+3)|14 (+2)|
+
 ___
+
 **Saving Throws** :: Dex +5, Int +5
 **Skills** :: Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5
 **Senses** :: darkvision 60 ft., passive Perception 15
 **Languages** :: Common
 **Challenge** :: 1 (200 XP)
+
 ___
+
 ***Armor Proficiencies.*** Light Armor, Medium Armor, and Shields
 :
 ***Weapon Proficiencies.*** Simple and Martial Weapons
@@ -58,7 +66,9 @@ ___
 ***Shortsword Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d6 + 7) slashing damage.
 :
 ***Whip Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 9 (1d4 + 7) slashing damage.
+
 ### Reactions
+
 ***Blood Curse of Exposure.*** When a creature you can see within 30 feet is hit with an attack or spell, you can use your reaction to temporarily weaken their resilience against it. Until the end of the turn, the target loses their resistance to the damage types of the triggering attack or spell.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, having resistance to them until the end of the turn.
