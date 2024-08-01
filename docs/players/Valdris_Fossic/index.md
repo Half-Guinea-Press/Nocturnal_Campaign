@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Valdris Fossic
 
 <div class="grid cards" markdown>
