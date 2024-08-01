@@ -21,12 +21,8 @@ hide:
     Hit Points 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.<br>
     Senses darkvision 60 ft., passive Perception 15<br>
-    
--   Proficiencies
-
     Skills Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5<br>
-    Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
-    Light and Medium Armor, Shields, Simple and Martial Weapons<br>
+    Alchemist's Tools, Thieves' Tools, Gaming Set(Dice), Light and Medium Armor, Shields, Simple and Martial Weapons<br>
     Languages Common<br>
 
 -   Racial Features
