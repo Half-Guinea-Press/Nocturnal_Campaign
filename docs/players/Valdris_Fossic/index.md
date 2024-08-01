@@ -14,16 +14,15 @@ ___
 |20 (+5)|16 (+3)|18 (+4)|16 (+3)|16 (+3)|14 (+2)|
 
 ___
+## Proficiencies
 **Saving Throws** :: Dex +5, Int +5<br>
 **Skills** :: Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5<br>
 **Senses** :: darkvision 60 ft., passive Perception 15<br>
 **Languages** :: Common<br>
-**Challenge** :: 1 (200 XP)<br>
-___
-## Proficiencies
 ***Armor Proficiencies.*** Light Armor, Medium Armor, and Shields<br>
 ***Weapon Proficiencies.*** Simple and Martial Weapons<br>
 ***Tool Proficiencies.*** Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
+___
 ## Abilities
 ***Hunter's Bane.*** Advantage on Wisdom(Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.<br>
 ***Hemocraft.*** DC = 13(8 + Prof Bonus + Int)<br>
@@ -33,6 +32,7 @@ ___
 ***Arcane Tracking.*** Your experience as an Arcane Repo Reaper has honed your ability to delve into the mysteries of magic in order to track missing or stolen magical items. You can use your Arcane Tracking feature, using your knowledge of magical signatures and impressions, to locate a specific missing magical item or trace recent magical activities within a limited area.<br>
 ***Deathless Nature.*** You don't need to breathe.<br>
 ***Spider Climb.*** You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
+___
 ### Actions
 ***Vampiric Bite.*** _Natural Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage. While under half HP adv on atk.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;If tgt not Construct or Undead empower as one of the following: <br>
@@ -47,6 +47,7 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;_Ranged Weapon Attack:_ +7 to hit, range 20/60 ft., one target. _Hit:_ 8 (1d6 + 5) slashing damage.<br>
 ***Shortsword Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d6 + 7) slashing damage.<br>
 ***Whip Attack.*** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 9 (1d4 + 7) slashing damage.<br>
+___
 ### Reactions
 ***Blood Curse of Exposure.*** When a creature you can see within 30 feet is hit with an attack or spell, you can use your reaction to temporarily weaken their resilience against it. Until the end of the turn, the target loses their resistance to the damage types of the triggering attack or spell.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, having resistance to them until the end of the turn.
