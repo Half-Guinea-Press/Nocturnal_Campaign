@@ -13,15 +13,16 @@ hide:
 
 -   
   
-    |:---:|:---:|:---:|
-    |STR|20|+5|
-    |DEX|16|+3|
-    |CON|18|+4|
-    |INT|16|+3|
-    |WIS|16|+3|
-    |CHR|14|+2|
+    |  |  |  |  |
+    |:---:|:---:|:---:|:---:|
+    |STR|20|+5| |
+    |DEX|16|+3|*|
+    |CON|18|+4| |
+    |INT|16|+3|*|
+    |WIS|16|+3| |
+    |CHR|14|+2| |
 
-    Medium Humanoid (Dhampir), Lawful Neutral
+    Medium Humanoid (Dhampir), Lawful Neutral<br>
     Armor Class 18 (scale mail, shield)<br>
     Hit Points 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.
@@ -31,9 +32,8 @@ hide:
     Saving Throws Dex +5, Int +5<br>
     Skills Arcana +5, Athletics +7, Insight +5, Investigation +5, Perception +5, Stealth +5, Survival +5, Alchemist's Tools, Thieves' Tools, and Gaming Set(Dice)<br>
     Senses darkvision 60 ft., passive Perception 15<br>
+    Light and Medium Armor, Shields, Simple and Martial Weapons<br>
     Languages Common<br>
-    Armor Proficiencies. Light Armor, Medium Armor, and Shields<br>
-    Weapon Proficiencies. Simple and Martial Weapons<br>
 
 -   Racial Features
 
