@@ -12,20 +12,19 @@ hide:
     <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
 
 -   Medium Humanoid (Dhampir), Lawful Neutral
-    
+  
+    |  |  |  |
+    |:---:|:---:|:---:|
+    |STR|20|+5|
+    |DEX|16|+3|
+    |CON|18|+4|
+    |INT|16|+3|
+    |WIS|16|+3|
+    |CHR|14|+2|
+
     Armor Class 18 (scale mail, shield)<br>
     Hit Points 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.<br>
-    
-    |STR|DEX|CON|
-    |:---:|:---:|:---:|
-    |20|16|18|
-    |+5|+3|+4|
-
-    |INT|WIS|CHA|
-    |:---:|:---:|:---:|
-    |16|16|14|
-    |+3|+3|+2|
     
 -   Proficiencies
 
