@@ -9,7 +9,7 @@ hide:
 <div class="grid cards" markdown>
 
 -   
-    <img src="https://half-guinea-press.github.io/Nightmare_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
+    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
 
 -   
   
