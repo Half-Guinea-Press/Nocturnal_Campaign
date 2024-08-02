@@ -24,7 +24,7 @@ hide:
     Arcana 5, Athletics 7, Insight 5, Investigation 5, Perception 5, Stealth 5, Survival 5<br>
     Alchemist's Tools, Thieves' Tools, Gaming Set(Dice)
 
--   Features
+-   
 
     Languages Common<br>
     Light and Medium Armor, Shields, Simple and Martial Weapons<br>
@@ -39,7 +39,7 @@ hide:
     Vampiric Bite :material-information-outline:{ title=" +6 to hit, reach 5 ft., 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}
     Blood Curse of the Eyeless :material-information-outline:{ title="When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness. Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack."}
     
--   Melee Attack Action
+-   
   
     Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
@@ -48,12 +48,12 @@ hide:
     Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
     Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
 
--   Ranged Attack Action
+-   
     
     Dagger/Dart +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
     Handaxe +7 to hit, range 20/60 ft., 1d6 + 5 slashing<br>
     
--   Equipment
+-   
 
     Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
 </div>
