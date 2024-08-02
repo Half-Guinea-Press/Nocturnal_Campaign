@@ -43,12 +43,15 @@ hide:
   
     Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
+    Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
+    Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
+
+-   
+  
     Dagger +7 to hit, reach 5 ft., 1d4 + 7 piercing<br>
     -   +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
     Handaxe +7 to hit, reach 5 ft., 1d6 + 7 slashing<br>
-    -   +7 to hit, range 20/60 ft., 1d6 + 5 slashing<br>
-    Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
-    Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
+    -   +7 to hit, range 20/60 ft., 1d6 + 5 slashing
 
 -   
 
