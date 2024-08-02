@@ -36,37 +36,22 @@ hide:
     Blood Maledict :material-information-outline:{ title="While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse. You can use this feature once. You regain all expended uses when you finish a short or long rest."}<br>
     Fighting Style: Dueling :material-information-outline:{ title="When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."}<br>
     Vampiric Bite :material-information-outline:{ title=" +6 to hit, reach 5 ft., 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}
+    Blood Curse of the Eyeless :material-information-outline:{ title="When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness. Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack."}
     
--   Actions
-
-    Vampiric Bite. _Natural Attack:_ +6 to hit, reach 5 ft., _Hit:_ 6 (1d4 + 4) piercing<br>
-    While under half HP adv on atk.<br>
-    If tgt not Construct or Undead empower:2(Prof Bonus per long rest)<br>
-    - Regain hp = damage<br>
-    - gain bonus to next ability check or atk roll = damage dealt <br>
-
 -   Melee Attack Action
   
-    Longsword _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 11 (1d8 + 7) slashing<br>
-    Warhammer _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 11 (1d8 + 7) bludgeoning<br>
-    Dagger _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 9 (1d4 + 7) piercing<br>
-    Handaxe _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 10 (1d6 + 7) slashing<br>
-    Shortsword _Melee Attack:_ +7 to hit, reach 5 ft., _Hit:_ 10 (1d6 + 7) slashing<br>
-    Whip _Melee Attack:_ +7 to hit, reach 10 ft., _Hit:_ 9 (1d4 + 7) slashing
+    Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
+    Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
+    Dagger +7 to hit, reach 5 ft., 1d4 + 7 piercing<br>
+    Handaxe +7 to hit, reach 5 ft., 1d6 + 7 slashing<br>
+    Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
+    Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
 
 -   Ranged Attack Action
     
-    Dagger/Dart _Ranged Attack:_ +7 to hit, range 20/60 ft., _Hit:_ 7 (1d4 + 5) piercing<br>
-    Handaxe _Ranged Attack:_ +7 to hit, range 20/60 ft., _Hit:_ 8 (1d6 + 5) slashing<br>
+    Dagger/Dart +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
+    Handaxe +7 to hit, range 20/60 ft., 1d6 + 5 slashing<br>
     
--   Reactions
-
-    Blood Curse of the Eyeless
-
-    When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness.
-
-    Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack.
-
 -   Equipment
 
     Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
