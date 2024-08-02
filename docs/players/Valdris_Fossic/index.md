@@ -23,11 +23,11 @@ hide:
     Senses darkvision 60 ft., passive Perception 15<br>
     Arcana 5, Athletics 7, Insight 5, Investigation 5, Perception 5, Stealth 5, Survival 5<br>
     Alchemist's Tools, Thieves' Tools, Gaming Set(Dice)<br>
-    Languages Common<br>
-    Light and Medium Armor, Shields, Simple and Martial Weapons<br>
+    Languages Common
     
 -   
 
+    Armor and Weapon Proficiencies :material-information-outline:{ title="Light and Medium Armor, Shields, Simple and Martial Weapons"}
     Deathless Nature :material-information-outline:{ title="You don't need to breathe." }<br>
     Spider Climb :material-information-outline:{ title="You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free." }<br>
     Arcane Tracking :material-information-outline:{ title="Your experience as an Arcane Repo Reaper has honed your ability to delve into the mysteries of magic in order to track missing or stolen magical items. You can use your Arcane Tracking feature, using your knowledge of magical signatures and impressions, to locate a specific missing magical item or trace recent magical activities within a limited area."}<br>
