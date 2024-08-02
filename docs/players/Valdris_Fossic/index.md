@@ -35,7 +35,7 @@ hide:
     Hemocraft Die: 1d4<br>
     Blood Maledict :material-information-outline:{ title="While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse. You can use this feature once. You regain all expended uses when you finish a short or long rest."}<br>
     Fighting Style: Dueling :material-information-outline:{ title="When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."}<br>
-    Vampiric Bite:material-information-outline:{ title="_Natural Attack:_ +6 to hit, reach 5 ft., _Hit:_ 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}
+    Vampiric Bite :material-information-outline:{ title="_Natural Attack:_ +6 to hit, reach 5 ft., _Hit:_ 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}
     
 -   Actions
 
