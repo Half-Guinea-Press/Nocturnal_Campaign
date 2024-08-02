@@ -61,8 +61,11 @@ hide:
     
 -   Reactions
 
-    Blood Curse of Exposure. When a creature you can see within 30 feet is hit with an attack or spell, you can use your reaction to temporarily weaken their resilience against it. Until the end of the turn, the target loses their resistance to the damage types of the triggering attack or spell.<br>
-    Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, having resistance to them until the end of the turn.
+    Blood Curse of the Eyeless
+
+    When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness.
+
+    Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack.
 
 -   Equipment
 
