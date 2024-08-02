@@ -27,7 +27,7 @@ hide:
     
 -   
 
-    Armor and Weapon Proficiencies :material-information-outline:{ title="Light and Medium Armor, Shields, Simple and Martial Weapons"}
+    Armor and Weapon Proficiencies :material-information-outline:{ title="Light and Medium Armor, Shields, Simple and Martial Weapons"}<br>
     Deathless Nature :material-information-outline:{ title="You don't need to breathe." }<br>
     Spider Climb :material-information-outline:{ title="You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free." }<br>
     Arcane Tracking :material-information-outline:{ title="Your experience as an Arcane Repo Reaper has honed your ability to delve into the mysteries of magic in order to track missing or stolen magical items. You can use your Arcane Tracking feature, using your knowledge of magical signatures and impressions, to locate a specific missing magical item or trace recent magical activities within a limited area."}<br>
@@ -44,15 +44,12 @@ hide:
     Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
     Dagger +7 to hit, reach 5 ft., 1d4 + 7 piercing<br>
+           +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
     Handaxe +7 to hit, reach 5 ft., 1d6 + 7 slashing<br>
+            +7 to hit, range 20/60 ft., 1d6 + 5 slashing<br>
     Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
     Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
 
--   
-    
-    Dagger/Dart +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
-    Handaxe +7 to hit, range 20/60 ft., 1d6 + 5 slashing<br>
-    
 -   
 
     Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
