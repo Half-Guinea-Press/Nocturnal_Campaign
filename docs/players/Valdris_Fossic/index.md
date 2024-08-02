@@ -39,11 +39,11 @@ hide:
     
 -   Actions
 
-    Vampiric Bite. _Natural Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage. While under half HP adv on atk.<br>
-    If tgt not Construct or Undead empower as one of the following: <br>
+    Vampiric Bite. _Natural Attack:_ +6 to hit, reach 5 ft., _Hit:_ 6 (1d4 + 4) piercing<br>
+    While under half HP adv on atk.<br>
+    If tgt not Construct or Undead empower:2(Prof Bonus per long rest)<br>
     - Regain hp = damage<br>
     - gain bonus to next ability check or atk roll = damage dealt <br>
-    Empower 2(Prof Bonus per long rest)<br>
 
 -   Melee Attack Action
   
