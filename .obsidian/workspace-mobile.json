@@ -11,8 +11,12 @@
             "id": "da0da886679ab00d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Valeria Equipment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Valeria Equipment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Valeria Equipment.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Valeria Equipment.md"
+          }
         }
       }
     ],
@@ -123,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "852eb5e3ef59889a",
+  "active": "da0da886679ab00d",
   "lastOpenFiles": [
+    "Campaign Stat Generation.md",
+    "Valeria Equipment.md",
     "Race",
     "Background",
     "Class"
