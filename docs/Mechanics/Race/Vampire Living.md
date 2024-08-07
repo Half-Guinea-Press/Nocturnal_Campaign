@@ -12,11 +12,17 @@ Speed: Base Walking speed 30<br>
 
 ## Racial Features
 
-### Living Dead: You count as humanoid, yet register as undead to spells and other effects that react to undead creature type
+### Living Dead: 
 
-### Superior Darkvision: You can see in dim light within 120 feet of you as if it were bright light and darkness as if it were dim light.
+You count as humanoid, yet register as undead to spells and other effects that react to undead creature type
 
-### Shadow Prowler: Perception and Stealth are skills
+### Superior Darkvision: 
+
+You can see in dim light within 120 feet of you as if it were bright light and darkness as if it were dim light.
+
+### Shadow Prowler: 
+
+Perception and Stealth are skills
 
 ### Sanguin Curse:
 
@@ -25,11 +31,17 @@ Speed: Base Walking speed 30<br>
 - You gain an additional three death saves for a total of six. The final (6th) is an automatic success, unless you were dealt damage from silver, holy (radiant), or daylight, but you enter a torpor for at least one month (the new moon). You can awaken from this torpor only if - You are fed enough vampire blood (hit dice) to awaken you (seven plus one per month in torpor)
 - A living creature with blood comes within 30’ of you. You will awaken, ravenous and do anything to feed until you have sated your thirst of Hit Dice equal to seven plus one per month (new moon) in torpor.
 
-### Fangs & Claws: you may make an attack with applying either Dex or Str and deal (piercing or slashing respectfully) 1d6 + Con mod damage and inflict Blood Drain with a bite (see below) or Bleeding effect from a claw attack.
+### Fangs & Claws: 
 
-### Blood Drain: With a successful bite attack you may choose to drink your victims blood, if they have any. You can consume up to your proficiency modifier the victims Hit Dice and use them to restore your own Hit Dice pool. Once you are filled you may not drain any more.
+you may make an attack with applying either Dex or Str and deal (piercing or slashing respectfully) 1d6 + Con mod damage and inflict Blood Drain with a bite (see below) or Bleeding effect from a claw attack.
 
-### Sunlight Sensitivity: You have disadvantage on attack and Perception checks that rely on sight when you, the target, or whatever you are trying to interact with is in direct sunlight.
+### Blood Drain: 
+
+With a successful bite attack you may choose to drink your victims blood, if they have any. You can consume up to your proficiency modifier the victims Hit Dice and use them to restore your own Hit Dice pool. Once you are filled you may not drain any more.
+
+### Sunlight Sensitivity: 
+
+You have disadvantage on attack and Perception checks that rely on sight when you, the target, or whatever you are trying to interact with is in direct sunlight.
 
 ## Vampiric Weaknesses:
 
