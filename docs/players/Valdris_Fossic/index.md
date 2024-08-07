@@ -8,8 +8,6 @@ hide:
 
 <div class="grid cards" markdown>
   
-=== "Main"
-
 -   
     <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
     
@@ -42,15 +40,15 @@ hide:
     Vampiric Bite :material-information-outline:{ title=" +6 to hit, reach 5 ft., 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}<br>
     Blood Curse of the Eyeless :material-information-outline:{ title="When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness. Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack."}
     
--   
+=== "Main Weapons"   
   
     Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
     Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
     Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
 
--   
-  
+=== "Small Weapons"
+
     Dagger +7 to hit, reach 5 ft., 1d4 + 7 piercing<br>
     -   +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
     Handaxe +7 to hit, reach 5 ft., 1d6 + 7 slashing<br>
@@ -59,11 +57,5 @@ hide:
 -   
 
     Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
-
-=== "Combat"
-
-
-=== "Equipment"
-
 
 </div>
