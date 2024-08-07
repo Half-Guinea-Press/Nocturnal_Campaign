@@ -12,6 +12,7 @@ hide:
 
     Medium Humanoid (Dhampir)
     Lawful Neutral
+    
 -   
   
     Medium Humanoid (Dhampir), Lawful Neutral<br>
