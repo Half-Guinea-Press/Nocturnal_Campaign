@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
@@ -8,10 +9,7 @@ hide:
 <div class="grid cards" markdown>
 
 -   
-    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic" width=30% align="left">
-
-    Medium Humanoid (Dhampir)
-    Lawful Neutral
+    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
     
 -   
   
