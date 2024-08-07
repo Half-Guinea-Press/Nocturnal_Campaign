@@ -13,9 +13,13 @@ Speed. You have a walking speed of 30 feet.<br>
 
 ## Racial Features
 
-### Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+### Darkvision. 
 
-### Constructed Resilience. You were created to have remarkable fortitude, represented by the following benefits:
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+### Constructed Resilience. 
+
+You were created to have remarkable fortitude, represented by the following benefits:
 
 - You have advantage on saving throws against poison, and you have resistance to poison damage.<br>
 - You don't need to eat, drink, or breathe.<br>
@@ -24,19 +28,25 @@ Speed. You have a walking speed of 30 feet.<br>
 
 ### Sentry's Rest. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
 
-### Corpse Light Lantern. You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. Starting at 3rd level, choose one of the options below each time you take the Help action with this trait:
+### Corpse Light Lantern. 
+
+You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. Starting at 3rd level, choose one of the options below each time you take the Help action with this trait:
 
 - Buttress. You and the creature you help each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus.<br>
 - Rally. You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.<br>
 - Spite. Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target has disadvantage on the next attack roll it makes within the next minute. Fortune from the Many. If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### Integrated Protection. Your body has built-in defensive layers, which can be enhanced with armor:
+### Integrated Protection. 
+
+Your body has built-in defensive layers, which can be enhanced with armor:
 
 - You gain a +1 bonus to Armor Class.<br>
 - You can don only armor with which you have proficiency. To don armor other than a shield, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.<br>
 - While you live, the armor incorporated into your body can't be removed against your will.<br>
 
-### Geneva Drive: Fettered have an oscillator somewhere on its body that it cannot reach. The oscillator determines whether the Fettered is a creature or an object. If the oscillator is ignited, the Fettered counts as a creature and uses its normal statistics. If the oscillator isn’t ignited, the Fettered counts as an object and it becomes incapacitated; pylons open from the body exposing the corpse light lantern holding the Fettered’s spirit. Any damage taken in excess of the Health of the Fettered creature form applies to its Health in object form; if the clockwork takes damage equal to the Health of its object form, it is destroyed.
+### Geneva Drive: 
+
+Fettered have an oscillator somewhere on its body that it cannot reach. The oscillator determines whether the Fettered is a creature or an object. If the oscillator is ignited, the Fettered counts as a creature and uses its normal statistics. If the oscillator isn’t ignited, the Fettered counts as an object and it becomes incapacitated; pylons open from the body exposing the corpse light lantern holding the Fettered’s spirit. Any damage taken in excess of the Health of the Fettered creature form applies to its Health in object form; if the clockwork takes damage equal to the Health of its object form, it is destroyed.
 
 - Resilience: The object form will have an 15 AC and 50 HP<br>
 - Immune damage from disease and poison: attack rolls against Intellect, Will, or Perception; attacks that can be resisted with Intellect, Will, or Perception challenge rolls; afflictions (see Suppressed Afflictions)<br>
@@ -51,6 +61,10 @@ Speed. You have a walking speed of 30 feet.<br>
 - Ignition: While the clockwork is an object, any creature that can reach it can use an action to twist the key. If the clockwork is not incapacitated, its mechanisms start working again and it becomes a creature at the end of the round. If the clockwork was incapacitated, roll a d6. On a 3 or lower, it remains incapacitated. On a 4 or higher, it heals 1 damage and becomes a creature at the end of the round.<br>
 - Repair Damage: A creature can use a tool kit and an action to start repairing a Fettered in its object form. If the creature spends a total of 4 hours working, it can make an Intellect challenge roll with disadvantage. On a success, the object form heals 1d6 + 1 damage.
 
-### Specialized Design. You gain one skill proficiency and one tool proficiency of your choice.
+### Specialized Design. 
 
-### Languages. You can speak, read, and write Common and one other language of your choice.
+You gain one skill proficiency and one tool proficiency of your choice.
+
+### Languages. 
+
+You can speak, read, and write Common and one other language of your choice.
