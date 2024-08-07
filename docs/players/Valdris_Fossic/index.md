@@ -8,8 +8,10 @@ hide:
 <div class="grid cards" markdown>
 
 -   
-    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
+    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic" style="width=50%" align="left">
 
+    Medium Humanoid (Dhampir)
+    Lawful Neutral
 -   
   
     Medium Humanoid (Dhampir), Lawful Neutral<br>
