@@ -16,28 +16,30 @@ Weapons: Simple weapons, martial weapons
 Tools: Alchemist’s supplies
 SavingThrows: Dexterity, Intelligence
 
-The Blood Hunter
-Level	Prof. Bonus	Hemocraft	BloodCurses	Features
-1st	2	1d4	1	Hunter’s Bane, Blood Maledict
-2nd	2	1d4	1	Fighting Style, Crimson Rite
-3rd	2	1d4	1	Blood Hunter Order
-4th	2	1d4	1	Ability Score Improvement
-5th	3	1d6	1	Extra Attack
-6th	3	1d6	2	Brand of Castigation, Blood Maledict(2/rest)
-7th	3	1d6	2	Order feature, Primal Rite
-8th	3	1d6	2	Ability Score Improvement
-9th	4	1d6	2	Grim Psychometry
-10th	4	1d6	3	Dark Augmentation
-11th	4	1d8	3	Order feature
-12th	4	1d8	3	Ability Score Improvement
-13th	5	1d8	3	Brandof Tethering, Blood Maledict(3/rest)
-14th	5	1d8	4	Hardened Soul, Esoteric Rite
-15th	5	1d8	4	Order feature
-16th	5	1d8	4	Ability Score Improvement
-17th	6	1d10	4	Blood Maledict(4/rest)
-18th	6	1d10	5	Order feature
-19th	6	1d10	5	Ability Score Improvement
-20th	6	1d10	5	Sanguine Master
+The Blood Hunter Class Table
+
+| Level | Prof. Bonus | Hemocraft | BloodCurses | Features |
+| :-: | :-: | :-: | :-: | :-: |
+| 1st | 2 | 1d4 | 1 | Hunter’s Bane, Blood Maledict |
+| 2nd | 2 | 1d4 | 1 | Fighting Style, Crimson Rite |
+| 3rd | 2 | 1d4 | 1 | Blood Hunter Order |
+| 4th | 2 | 1d4 | 1 | Ability Score Improvement |
+| 5th | 3 | 1d6 | 1 | Extra Attack |
+| 6th | 3 | 1d6 | 2 | Brand of Castigation, Blood Maledict(2/rest) |
+| 7th | 3 | 1d6 | 2 | Order feature, Primal Rite |
+| 8th | 3 | 1d6 | 2 | Ability Score Improvement |
+| 9th | 4 | 1d6 | 2 | Grim Psychometry |
+| 10th | 4 | 1d6 | 3 | Dark Augmentation |
+| 11th | 4 | 1d8 | 3 | Order feature |
+| 12th | 4 | 1d8 | 3 | Ability Score Improvement |
+| 13th | 5 | 1d8 | 3 | Brandof Tethering, Blood Maledict(3/rest) |
+| 14th | 5 | 1d8 | 4 | Hardened Soul, Esoteric Rite |
+| 15th | 5 | 1d8 | 4 | Order feature |
+| 16th | 5 | 1d8 | 4 | Ability Score Improvement |
+| 17th | 6 | 1d10 | 4 | Blood Maledict(4/rest) |
+| 18th | 6 | 1d10 | 5 | Order feature |
+| 19th | 6 | 1d10 | 5 | Ability Score Improvement |
+| 20th | 6 | 1d10 | 5 | Sanguine Master |
 
 
 Skills: Choose three from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival.
