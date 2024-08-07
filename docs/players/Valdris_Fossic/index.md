@@ -26,19 +26,12 @@ hide:
     Alchemist's Tools, Thieves' Tools, Gaming Set(Dice)<br>
     Languages Common
 
-    title="Features"
-=== "Dhampir Features"   
+-     
 
     Deathless Nature :material-information-outline:{ title="You don't need to breathe." }<br>
     Spider Climb :material-information-outline:{ title="You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free." }<br>
     Vampiric Bite :material-information-outline:{ title=" +6 to hit, reach 5 ft., 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}<br>
-
-=== "Background Feature"
-
     Arcane Tracking :material-information-outline:{ title="Your experience as an Arcane Repo Reaper has honed your ability to delve into the mysteries of magic in order to track missing or stolen magical items. You can use your Arcane Tracking feature, using your knowledge of magical signatures and impressions, to locate a specific missing magical item or trace recent magical activities within a limited area."}<br>
-
-=== "Blood Hunter Features"
-
     Armor and Weapon Proficiencies :material-information-outline:{ title="Light and Medium Armor, Shields, Simple and Martial Weapons"}<br>
     Hunter's Bane :material-information-outline:{ title="Advantage on Wisdom(Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them."}<br>
     Hemocraft. DC = 13(8 + Prof Bonus + Int)<br>
@@ -47,7 +40,7 @@ hide:
     Fighting Style: Dueling :material-information-outline:{ title="When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."}<br>
     Blood Curse of the Eyeless :material-information-outline:{ title="When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness. Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack."}
 
-    title="Weapons"
+
 === "Main Weapons"   
   
     Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
