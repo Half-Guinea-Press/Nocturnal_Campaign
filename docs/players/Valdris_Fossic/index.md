@@ -6,9 +6,9 @@ hide:
 
 # Valdris Fossic
 
-<div class="grid cards" markdown>
-
 === "Main"
+
+    <div class="grid cards" markdown>
     -   
         <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
         
@@ -59,10 +59,12 @@ hide:
     
         Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
 
+    </div>
+    
 === "Combat"
 
 
 === "Equipment"
 
 
-</div>
+
