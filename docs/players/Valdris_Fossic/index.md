@@ -13,6 +13,7 @@ hide:
     
 -   
   
+    Blood Hunter Lvl 1
     Medium Humanoid (Dhampir), Lawful Neutral<br>
     STR 20(+5) DEX 16(+3) CON 18(+4)<br>
     INT 16(+3) WIS 16(+3) CHR 14(+2)<br>
