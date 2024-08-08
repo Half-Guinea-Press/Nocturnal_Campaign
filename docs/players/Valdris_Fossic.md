@@ -22,6 +22,7 @@ hide:
     Hit Dice 1d10<br>
     Speed 35 ft., climb 35 ft.<br>
     Senses darkvision 60 ft., passive Perception 15<br>
+    Proficiency Bonus +2<br>
     Arcana 5, Athletics 7, Insight 5, Investigation 5, Perception 5, Stealth 5, Survival 5<br>
     Alchemist's Tools, Thieves' Tools, Gaming Set(Dice)<br>
     Languages Common
