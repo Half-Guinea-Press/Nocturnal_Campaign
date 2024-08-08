@@ -10,13 +10,12 @@ hide:
   
 -   
     <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic">
-    
--   Blood Hunter Lvl 1 Dhampir (LN)
+    Blood Hunter Lvl 1 Dhampir (LN)
+
+-    STR 20(+5) DEX 16(+3) CON 18(+4)<br>INT 16(+3) WIS 16(+3) CHR 14(+2)
 
     ---
     
-    STR 20(+5) DEX 16(+3) CON 18(+4)<br>
-    INT 16(+3) WIS 16(+3) CHR 14(+2)<br>
     Saving Throws Dex +5, Int +5<br>
     AC 18 (scale mail, shield) HP 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.<br>
