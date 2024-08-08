@@ -44,7 +44,7 @@ When you aren't wearing armor, your AC is 11 + your Constitution modifier. You c
 
 ### Fangs & Claws: 
 
-you may make an attack with applying either Dex or Str and deal (piercing or slashing respectfully) 1d6 + Con mod damage.
+You may make an attack with applying either Dex or Str and deal (piercing or slashing respectfully) 1d6 + Con mod damage.
 
 ### The Watch. 
 
