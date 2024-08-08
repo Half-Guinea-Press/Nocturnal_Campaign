@@ -17,7 +17,9 @@ hide:
     ---
     
     Saving Throws Dex +5, Int +5<br>
-    AC 18 (scale mail, shield) HP 14 (1d10 + 4)<br>
+    Armor Class 18 (scale mail, shield) <br>
+    Hit Points 14 (1d10 + 4)<br>
+    Hit Dice 1d10<br>
     Speed 35 ft., climb 35 ft.<br>
     Senses darkvision 60 ft., passive Perception 15<br>
     Arcana 5, Athletics 7, Insight 5, Investigation 5, Perception 5, Stealth 5, Survival 5<br>
