@@ -56,4 +56,11 @@ hide:
 
     Scale Mail, Thieves' Tools, Warhammer, Greatsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
 
+=== "Bag of Holding"
+
+    Weight 25 lbs, Holds 70 cuft, 500 lbs.
+
+    ---
+    
+
 </div>
