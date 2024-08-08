@@ -18,8 +18,7 @@ hide:
     STR 20(+5) DEX 16(+3) CON 18(+4)<br>
     INT 16(+3) WIS 16(+3) CHR 14(+2)<br>
     Saving Throws Dex +5, Int +5<br>
-    Armor Class 18 (scale mail, shield)<br>
-    Hit Points 14 (1d10 + 4)<br>
+    AC 18 (scale mail, shield) HP 14 (1d10 + 4)<br>
     Speed 35 ft., climb 35 ft.<br>
     Senses darkvision 60 ft., passive Perception 15<br>
     Arcana 5, Athletics 7, Insight 5, Investigation 5, Perception 5, Stealth 5, Survival 5<br>
@@ -28,7 +27,7 @@ hide:
 
 === "Features"
 
-    Dhampir: Medium Humanoid
+    Dhampir: Medium Humanoid<br>
     Deathless Nature :material-information-outline:{ title="You don't need to breathe." }<br>
     Spider Climb :material-information-outline:{ title="You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free." }<br>
     Vampiric Bite :material-information-outline:{ title=" +6 to hit, reach 5 ft., 6 (1d4 + 4) piercing. While under half HP adv on atk. If tgt not Construct or Undead empower:2(Prof Bonus per long rest) - Regain hp = damage or gain bonus to next ability check or atk roll = damage dealt"}<br>
