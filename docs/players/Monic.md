@@ -16,10 +16,10 @@ hide:
 
     ---
     
-    Saving Throws <br>
+    Saving Throws Strength +#, Dexterity +#<br>
     Armor Class # (armor, shield) <br>
-    Hit Points # (#d# + #)<br>
-    Hit Dice #d#<br>
+    Hit Points # (1d8 + #)<br>
+    Hit Dice 1d8<br>
     Speed 40 ft., flight/climbing/swim 40 ft. <br>
     Senses darkvision 60 ft., Passive Perception #<br>
     Proficiency Bonus +2<br>
@@ -37,7 +37,10 @@ hide:
     Fangs & Claws :material-information-outline:{ title="You may make an attack with applying either Dex or Str and deal (piercing or slashing respectfully) 1d6 + Con mod damage." }<br>
     The Watch :material-information-outline:{ title="Your dedication as a guardian provides you the following.<br>You can add your proficiency die to one attack roll, ability or skill check, or saving throw you make, and you can do so after seeing the d20 roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.<br>You gain proficiency in perception and insight" }<br>
     Background Feature :material-information-outline:{ title="Feature Example." }<br>
-    Class Feature :material-information-outline:{ title="Feature Example." }<br>
+    Armor and Weapon Proficiencies :material-information-outline:{ title="Simple Weapons, and shortswords"}<br>
+    Unarmored Defense :material-information-outline:{ title="Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier." }<br>
+    Martial Artse :material-information-outline:{ title="Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.<br>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield.<br>- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.<br>- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.<br>- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.<br>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama)." }<br>
+    Martial Arts Die: 1d4<br>
 
 === "Weapons"   
   
