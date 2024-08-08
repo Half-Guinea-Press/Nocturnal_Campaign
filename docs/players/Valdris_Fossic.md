@@ -47,9 +47,9 @@ hide:
     Greatsword +7 to hit, reach 5 ft., 2d6 + 5 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 5 bludgeoning<br>
     Shortsword +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
-    Whip +7 to hit, reach 10 ft., 1d4 + 5 slashing
+    Whip +7 to hit, reach 10 ft., 1d4 + 5 slashing<br>
     Dagger +7 to hit, reach 5 ft., range 20/60 ft., 1d4 + 5 piercing<br>
-    Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
+    Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing<
 
 === "Equipment"
 
