@@ -16,7 +16,7 @@ hide:
 -   Dominik Bohm
 
     ---
-    <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/people/Dominik Bohm/"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Dominik Bohm.jpg" alt="Dominik Bohm">
+    <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/people/Dominik Bohm/"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Dominik Bohm.jpg" alt="Dominik Bohm"></a>
     
 -   Missy
 
