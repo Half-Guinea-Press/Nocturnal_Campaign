@@ -16,7 +16,7 @@ hide:
 
     ---
     
-    Saving Throws <br>
+    Saving Throws Dexterity +#, Charisma +#<br>
     Armor Class # (armor, shield) <br>
     Hit Points # (1d8 + #)<br>
     Hit Dice 1d8<br>
