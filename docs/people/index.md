@@ -18,8 +18,10 @@ hide:
     ---
     <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/people/Dominik Bohm/"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Dominik Bohm.jpg" alt="Dominik Bohm">
     
--   
+-   Missy
 
     ---
 
+    Red headed street urchin leader of a group of street urchin children.
+    
 </div>
