@@ -22,6 +22,7 @@ hide:
     Hit Dice #d#<br>
     Speed # ft., <br>
     Senses , Passive Perception #<br>
+    Proficiency Bonus +2<br>
     Athletics +#, Acrobatics +#, Sleight of Hand +#, Stealth +#, Arcana +#, History +#, Investigation +#, Nature +#, Religion +#, Animal Handling +#, Insight +#, Medicine +#, Perception +#, Survival +#, Deception +#, Intimidation +#, Performance +#, Persuasion +#<br>
     Alchemist's Tools, <br>
     Languages Common
