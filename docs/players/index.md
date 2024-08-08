@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # Player Characters
 
 <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/players/Valdris_Fossic/"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg" alt="/Valdris Fossic" style="width:18%"></a>
