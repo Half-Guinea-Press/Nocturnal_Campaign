@@ -26,7 +26,9 @@ You were created to have remarkable fortitude, represented by the following bene
 - You are immune to disease.<br>
 - You don't need to sleep, and magic can't put you to sleep.
 
-### Sentry's Rest. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
+### Sentry's Rest. 
+
+When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.
 
 ### Corpse Light Lantern. 
 
@@ -34,7 +36,9 @@ You can use this trait to take the Help action as a bonus action, and you can do
 
 - Buttress. You and the creature you help each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus.<br>
 - Rally. You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.<br>
-- Spite. Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target has disadvantage on the next attack roll it makes within the next minute. Fortune from the Many. If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- Spite. Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target has disadvantage on the next attack roll it makes within the next minute.<br>
+- Fortune from the Many. If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). <br>
+You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Integrated Protection. 
 
