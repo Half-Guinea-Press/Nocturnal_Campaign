@@ -37,26 +37,26 @@ hide:
     Hemocraft. DC = 13(8 + Prof Bonus + Int)<br>
     Hemocraft Die: 1d4<br>
     Blood Maledict :material-information-outline:{ title="While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse. You can use this feature once. You regain all expended uses when you finish a short or long rest."}<br>
-    Fighting Style: Dueling :material-information-outline:{ title="When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."}<br>
+    Fighting Style: Great Weapon Fighting :material-information-outline:{ title="When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."}<br>
     Blood Curse of the Eyeless :material-information-outline:{ title="When a creature you can see within 30 feet of you makes an attack roll, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack roll succeeds. The creature is immune if it is immune to blindness. Amplify. You apply this curse to all of the creature’s attack rolls until the end of the turn. You roll anew hemocraft die for each affected attack."}
 
 
 === "Main Weapons"   
   
-    Longsword +7 to hit, reach 5 ft., 1d8 + 7 slashing<br>
-    Warhammer +7 to hit, reach 5 ft., 1d8 + 7 bludgeoning<br>
-    Shortsword +7 to hit, reach 5 ft., 1d6 + 7slashing<br>
-    Whip +7 to hit, reach 10 ft., 1d4 + 7 slashing
+    Greatsword +7 to hit, reach 5 ft., 2d6 + 5 slashing<br>
+    Warhammer +7 to hit, reach 5 ft., 1d8 + 5 bludgeoning<br>
+    Shortsword +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
+    Whip +7 to hit, reach 10 ft., 1d4 + 5 slashing
 
 === "Small Weapons"
 
-    Dagger +7 to hit, reach 5 ft., 1d4 + 7 piercing<br>
+    Dagger +7 to hit, reach 5 ft., 1d4 + 5 piercing<br>
     -   +7 to hit, range 20/60 ft., 1d4 + 5 piercing<br>
-    Handaxe +7 to hit, reach 5 ft., 1d6 + 7 slashing<br>
+    Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
     -   +7 to hit, range 20/60 ft., 1d6 + 5 slashing
 
 -   
 
-    Scale Mail, Thieves' Tools, Warhammer, Longsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
+    Scale Mail, Thieves' Tools, Warhammer, Greatsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
 
 </div>
