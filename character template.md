@@ -40,6 +40,6 @@ hide:
 
 === "Equipment"
 
-    Scale Mail, 
+    Dagger, 
 
 </div>
