@@ -16,15 +16,15 @@ hide:
 
     ---
     
-    Saving Throws <br>
+    Saving Throws Constitution +#, Intelligence +#<br>
     Armor Class # (armor, shield) <br>
-    Hit Points # (#d# + #)<br>
-    Hit Dice #d#<br>
+    Hit Points # (1d8 + #)<br>
+    Hit Dice 1d8<br>
     Speed 30 ft.<br>
     Senses darkvision 120 ft., Passive Perception #<br>
     Proficiency Bonus +2<br>
     Athletics +#, Acrobatics +#, Sleight of Hand +#, Stealth +#, Arcana +#, History +#, Investigation +#, Nature +#, Religion +#, Animal Handling +#, Insight +#, Medicine +#, Perception +#, Survival +#, Deception +#, Intimidation +#, Performance +#, Persuasion +#<br>
-    Alchemist's Tools, <br>
+    Alchemist’s supplies, herbalism kit<br>
     Languages Common
 
 === "Features"
@@ -41,10 +41,13 @@ hide:
     Bleeding :material-information-outline:{ title="Condition does 1d4 damage at the end of each turn, that ignore temporary hit points until you are healed with magic or someone performs a DC 15 medicine check, bleeding only applies to creatures that have blood." }<br>
     Decaying :material-information-outline:{ title="Condition that causes a creature to rot away as though it were dead. The decaying condition is measured in six levels. IF an already decaying creature suffers another effect that causes decaing, its current level of decaying increases by the amount spceified in the effect's description. A creature suffers the effect of its current level of decaying as well as all lower levels. When an affected creature finishes a long rest outside of the domain, its level of decaying is reduced by one. Other methods of removing decaying are believed to exist though the existence and nature of such is determined by the GM." }<br>
     Background Feature :material-information-outline:{ title="Feature Example." }<br>
-    Class Feature :material-information-outline:{ title="Feature Example." }<br>
-    Class Feature :material-information-outline:{ title="Feature Example." }<br>
-    Class Feature :material-information-outline:{ title="Feature Example." }<br>
-    Class Feature :material-information-outline:{ title="Feature Example." }<br>
+    Armor and Weapon Proficiencies :material-information-outline:{ title="Light Armor, Simple Weapons, and blowguns"}<br>
+    Experimentalist Adept :material-information-outline:{ title="Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses alchemist’s supplies and the chosen proficiency.<br>Additionally, you only need to provide 5 gp worth of raw materials to craft any alchemical item you know the formula for worth 50 gp or less. When you craft alchemical items during a long rest, the maximum number of alchemical items you can create during the long rest is equal to your alchemist level + your Intelligence modifier (minimum of 1)." }<br>
+    Alchemy :material-information-outline:{ title="Your practice of alchemical research has trained you in the implementation and creation of devastating chemical concoctions of incredible power. See the Alchemical Items section at the end of this class for the effects and items you can create with this feature." }<br>
+    Alchemy: Formulae :material-information-outline:{ title="You know the formula for basic acid, alchemist’s fire, antitoxin, basic oil, perfume, soap, and two other alchemical items of your choice. Each time you gain an alchemist level, you learn the formula for another alchemical item of your choice. You might find and discover other formulae during your adventures.<br>You could find the formula for a tanglefoot bag sold by a potion seller in a market, for example, or shuffled among the notes of an elder alchemist’s laboratory. Alternatively, if you find a potion or alchemical item, you can research its components to learn its formula. The process of learning a formula takes 2 hours experimenting with your alchemist’s supplies. If you experimented on an alchemical item or potion to do so, the item is destroyed in this process. If the item has a rarity of common, the time required is doubled, and doubles again for each rank of rarity above common." }<br>
+    Alchemy: Catalyze :material-information-outline:{ title="As a bonus action on your turn, you can quickly create an alchemical item. To use this ability, you must have your hands free and the raw materials and container required in your inventory.<br>Raw materials you use with this feature are consumed by the process, and any item you create with this bonus action loses its potency if not used within 1 minute." }<br>
+    Alchemy: Potency :material-information-outline:{ title="You have trained in the use of alchemical items in combat, granting you the following benefits:<br>- The range you can throw any alchemical item is doubled, and being within 5 feet of the target of a ranged attack you make with an alchemical item does not impose disadvantage on the attack roll.<br>- You can use your Intelligence modifier, instead of Strength or Dexterity, when making an attack roll with alchemical items. If the item calls for a saving throw, you can use your alchemy save DC instead of the DC listed in the item’s description, as shown below:" }<br>
+    Alchemy save DC = 8 + your proficiency bonus + your Intelligence modifier<br>
 
 === "Weapons"   
   
