@@ -12,19 +12,19 @@ hide:
     <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Gargoyle_SunSoulMonk.jpg" alt="Monic">
     Monk Lvl 1 Gargoyle (Alignment)
 
--    STR #(+#) DEX #(+#) CON #(+#)<br>INT #(+#) WIS #(+#) CHR #(+#)
+-    STR 16(+3) DEX 20(+5) CON 16(+3)<br>INT 16(+3) WIS 18(+4) CHR 10(+0)
 
     ---
     
-    Saving Throws Strength +#, Dexterity +#<br>
-    Armor Class # (armor, shield) <br>
-    Hit Points # (1d8 + #)<br>
+    Saving Throws Strength +5, Dexterity +7<br>
+    Armor Class 19 (monk Unarmored Defense) <br>
+    Hit Points 11 (1d8 + 3)<br>
     Hit Dice 1d8<br>
     Speed 40 ft., flight/climbing/swim 40 ft. <br>
     Senses darkvision 60 ft., Passive Perception #<br>
     Proficiency Bonus +2<br>
-    Athletics +#, Acrobatics +#, Sleight of Hand +#, Stealth +#, Arcana +#, History +#, Investigation +#, Nature +#, Religion +#, Animal Handling +#, Insight +#, Medicine +#, Perception +#, Survival +#, Deception +#, Intimidation +#, Performance +#, Persuasion +#<br>
-    Alchemist's Tools, <br>
+    Athletics +5, Acrobatics +5, Sleight of Hand +5, Stealth +7, Arcana +3, History +3, Investigation +3, Nature +5, Religion +3, Animal Handling +4, Insight +6, Medicine +4, Perception +6, Survival +6, Deception +0, Intimidation +0, Performance +0, Persuasion +0<br>
+    Mason's Tools, Drub<br>
     Languages Common
 
 === "Features"
@@ -45,10 +45,18 @@ hide:
 === "Weapons"   
   
 
-    Dagger +# to hit, reach 5 ft., range 20/60 ft., 1d4 + # piercing<br>
+    Dart +7 to hit, reach 5 ft., range 20/60 ft., 1d4 + 5 piercing (Martial Arts)<br>
+    Fangs +7 to hit, reach 5 ft., 1d6 + 5 piercing (Martial Arts)<br>
+    Claws +7 to hit, reach 5 ft., 1d6 + 5 slashing (Martial Arts)<br>
 
 === "Equipment"
 
-    Dagger, 
+    Dagger x 4, Dart x 10, 
+==== "Backback"
+
+    Greatclub, Quarterstaff, Hunting Trap, Crowbar, Hammer, Piton, Rations x 10, Hempen Rope 50ft, Tinderbox, Torch, Waterskin
+==== "Pouch"
+
+    A raven feather quill which never runs out of ink
 
 </div>
