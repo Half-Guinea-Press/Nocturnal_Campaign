@@ -1,0 +1,1 @@
+<a href="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Guthderm Market Plaza.jpg"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Guthderm Market Plaza.jpg" alt="Guthderm Market Plaza"></a>
