@@ -50,7 +50,7 @@ hide:
     Dagger +7 to hit, reach 5 ft., range 20/60 ft., 1d4 + 5 piercing<br>
     Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
 
--   Equipment
+=== "Equipment"
 
     Scale Mail, Thieves' Tools, Warhammer, Greatsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
 
