@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Non-Player Characters
 
 <div class="grid cards" markdown>
