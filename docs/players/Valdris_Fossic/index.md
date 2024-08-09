@@ -1,11 +1,12 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
 # Valdris Fossic
 
-(switch to [Equipment](https://half-guinea-press.github.io/Nocturnal_Campaign/players/Valdris_Fossic/))
+(switch to [Equipment](https://half-guinea-press.github.io/Nocturnal_Campaign/players/Valdris_Fossic/Equipment/))
 
 <div class="grid cards" markdown>
   
