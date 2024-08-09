@@ -6,6 +6,8 @@ hide:
 
 # Valdris Fossic
 
+(switch to [Equipment](https://half-guinea-press.github.io/Nocturnal_Campaign/players/Valdris_Fossic/))
+
 <div class="grid cards" markdown>
   
 -   
