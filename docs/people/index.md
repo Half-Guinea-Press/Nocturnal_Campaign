@@ -23,5 +23,11 @@ hide:
     ---
 
     Red headed street urchin leader of a group of street urchin children.
+
+-   Liam
+
+    ---
+
+    With Snake Parasite and cultists that were chasing Marcelo.
     
 </div>
