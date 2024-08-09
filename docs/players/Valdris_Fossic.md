@@ -48,13 +48,18 @@ hide:
     Greatsword +7 to hit, reach 5 ft., 2d6 + 5 slashing<br>
     Warhammer +7 to hit, reach 5 ft., 1d8 + 5 bludgeoning<br>
     Shortsword +7 to hit, reach 5 ft., 1d6 + 5 slashing<br>
-    Whip +7 to hit, reach 10 ft., 1d4 + 5 slashing<br>
+    Meteor Hammer +7 to hit, reach 10 ft., 1d6 + 5 bludgeoning<br>
+    Rope Dart +7 to hit, reach 10 ft., 1d6 + 5 bludgeoning<br>
     Dagger +7 to hit, reach 5 ft., range 20/60 ft., 1d4 + 5 piercing<br>
-    Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing<
+    Handaxe +7 to hit, reach 5 ft., 1d6 + 5 slashing
 
 === "Equipment"
 
     Scale Mail, Thieves' Tools, Warhammer, Greatsword, Fine Clothes, Silk Rope (50 feet), Shortsword, Shield, Steel Mirror, Healer's Kit, Handaxe (x2), Whip, Traveler's Clothes, Shovel, Manacles, Dagger, Crowbar, Backpack, Vial, Map or Scroll Case, Hammer, Caltrops (bag of 20), Bell, Bedroll, Ball Bearings (bag of 1,000), Tinderbox, Sealing Wax (x3), Pouch, Waterskin, Oil (flask) (x2), Dice Set, Piton (x10), Dart (x20), Flask (x2), Sack (x2), Chalk (x5), Candle (x5)
+
+    ---
+
+    32 gp 7 ep 5 sp 50 cp
 
 === "Bag of Holding"
 
@@ -62,5 +67,7 @@ hide:
 
     ---
     
-
+    2 sets of leather armor<br>
+    dagger<br>
+    
 </div>
