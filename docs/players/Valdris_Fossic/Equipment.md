@@ -15,13 +15,27 @@ hide:
 
     Traveler's Clothes<br>
     Scale Mail<br>
-    Warhammer<br>
+    Belt
+    
+
+-   Back
+
+    ---
+
     Greatsword<br>
+    Backpack<br>
+    Shield<br>
+    Warhammer<br>  
+
+
+-   Belt
+
+    ---
+
     Shortsword<br>
     Meteor Hammer<br>
     Rope Dart<br>
     Dagger<br>
-    Backpack<br>
     Belt Pouch<br>
     Dart (x20)<br>
     
@@ -51,7 +65,6 @@ hide:
     Thieves' Tools<br>  
     Fine Clothes<br>
     Silk Rope (50 feet)<br>
-    Shield<br>
     Shovel<br>
     Manacles<br>
     Crowbar<br>
