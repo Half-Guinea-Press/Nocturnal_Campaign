@@ -10,7 +10,6 @@ hide:
 <div class="grid cards" markdown>
   
 -   
-    <img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic head.jpg" alt="/Valdris Fossic">
     <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic head.jpg" alt="Valdris Fossic"></a>
     Blood Hunter Lvl 1 Dhampir (LN)
 
