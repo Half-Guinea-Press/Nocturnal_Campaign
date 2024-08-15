@@ -10,7 +10,7 @@ hide:
 <div class="grid cards" markdown>
   
 -   
-    <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic head.jpg" alt="Valdris Fossic"></a>
+    <a href="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic.jpg"><img src="https://half-guinea-press.github.io/Nocturnal_Campaign/images/Valdris Fossic head.jpg" alt="Valdris Fossic" style="width:200px;height:200px;"></a>
     Blood Hunter Lvl 1 Dhampir (LN)
 
 -    STR 20(+5) DEX 16(+3) CON 18(+4)<br>INT 16(+3) WIS 16(+3) CHR 14(+2)
